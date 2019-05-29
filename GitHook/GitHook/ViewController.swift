@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         self.view.backgroundColor = UIColor.red
         print("123123")
+        self.view.backgroundColor = UIColor.red
+        self.view.backgroundColor = UIColor.red
+        self.view.backgroundColor = UIColor.red
+
     }
 
 
